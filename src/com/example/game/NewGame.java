@@ -5,6 +5,10 @@ import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.graphics.GL20;
 import com.badlogic.gdx.graphics.Texture;
 import com.badlogic.gdx.graphics.g2d.SpriteBatch;
+import com.example.screens.NewGameScreen;
+import com.example.game.*;
+import  com.badlogic.gdx.Game ;
+import  com.badlogic.gdx.Gdx ;
 
 public class NewGame extends ApplicationAdapter {
 	SpriteBatch batch;
